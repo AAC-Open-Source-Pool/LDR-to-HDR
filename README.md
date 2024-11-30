@@ -41,7 +41,6 @@ The model is able to handle real world lighting and is able to accurately repres
 ## Installation and usage
 Step by step process of cloning the project, installments needed and how to use it
 
-Ex:-
 - Clone the repository
 - Run `pip install -r requirements.txt` to download all necessary dependencies
 - Run `streamlit run app.py` to run the detection algorithm, and upload the picture to the website opened.
