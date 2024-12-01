@@ -43,7 +43,7 @@ Step by step process of cloning the project, installments needed and how to use 
 
 - Clone the repository
 - Run `pip install -r requirements.txt` to download all necessary dependencies
-- Run `streamlit run app.py` to run the detection algorithm, and upload the picture to the website opened.
+- Run `streamlit run app.py` to run the conversion algorithm, and upload the picture to the website opened.
 
 
 ## Preview
