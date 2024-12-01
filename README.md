@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <img src=https://imgur.com/a/ldr-to-hdr-vzmVQ2P>
+  <img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/vzmVQ2P"  ><a href="//imgur.com/a/vzmVQ2P">ldr to hdr </a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
 </div>
 <p align="center">High dynamic range (HDR) imaging provides the capability of handling real world lighting as opposed to the low dynamic range (LDR) which struggles to accurately represent images with higher dynamic range. However, most imaging content is still available only in LDR. This implementation presents a method for generating HDR images from LDR images based on Convolutional Neural Networks . The model attempts to reconstruct missing information that was lost from the original image . The image is reconstructed from learned features .The model is trained in a supervised method using a dataset of HDR images.</p>
 
