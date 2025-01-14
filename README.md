@@ -15,7 +15,7 @@
 
   
 ## Abstract
-<p align="center">High dynamic range (HDR) imaging provides the capability of handling real world lighting as opposed to the low dynamic range (LDR) which struggles to accurately represent images with higher dynamic range. However, most imaging content is still available only in LDR. This implementation presents a method for generating HDR images from LDR images based on Convolutional Neural Networks . The model attempts to reconstruct missing information that was lost from the original image . The image is reconstructed from learned features .The model is trained in a supervised method using a dataset of HDR images.</p>
+<p>High dynamic range (HDR) imaging provides the capability of handling real world lighting as opposed to the low dynamic range (LDR) which struggles to accurately represent images with higher dynamic range. However, most imaging content is still available only in LDR. This implementation presents a method for generating HDR images from LDR images based on Convolutional Neural Networks . The model attempts to reconstruct missing information that was lost from the original image . The image is reconstructed from learned features .The model is trained in a supervised method using a dataset of HDR images.</p>
 
 
 ## Table of Contents
