@@ -50,7 +50,7 @@ Step by step process of cloning the project, installments needed and how to use 
 
 ## Preview
 Screenshots of the project
-<img src="https://imgur.com/a/D26bXCh.jpeg">
+<img src="https://imgur.com/Jf7GA02.jpeg">
 
 ## Contribution 
 **This section provides instructions and details on how to submit a contribution via a pull request. It is important to follow these guidelines to make sure your pull request is accepted.**
